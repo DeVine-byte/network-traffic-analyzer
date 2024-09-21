@@ -28,8 +28,8 @@ You can install the required libraries using pip:
 pip install -r requirements.txt
 
 ## Usage
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+ git clone https://github.com/DeVine-byte/network-traffic-analyzer.git
+cd network-traffic-analyzer
 
 ## Run
 sudo python analyzer.py
